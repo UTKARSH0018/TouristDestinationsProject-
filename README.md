@@ -1,4 +1,4 @@
-# TouristDestinationsProject-
+# TouristDestinationsProject
 
 The TouristDestinationsProject is an interactive web application designed to help users explore and plan their travels to various locations across India. The project is developed using React.js for the frontend logic and dynamic user experience, and HTML and CSS for the structure and styling of the application.
 
